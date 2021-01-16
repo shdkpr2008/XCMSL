@@ -1,0 +1,8 @@
+Hello _RUSER_
+
+Ticket id <strong> #_ID_</strong> titled <strong>_TITLE_</strong> has been closed.
+If you seek further assistance, reply to the ticket to repon it or create a new ticket.
+ <a target="_blank" href ="_URL_">_URL_</a>
+
+Regards
+Team

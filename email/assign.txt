@@ -1,0 +1,7 @@
+Hello _RUSER_
+
+Ticket id <strong> #_ID_</strong> titled <strong>_TITLE_</strong> has been assigned to you!
+Kindly view the ticket at <a target="_blank" href ="_URL_">_URL_</a>
+
+Regards
+Team

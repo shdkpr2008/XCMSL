@@ -1,0 +1,8 @@
+Hello _RUSER_
+
+Ticket id <strong> #_ID_</strong> titled <strong>_TITLE_</strong> has been put on hold.
+Please wait for the further instructions to be provided through reply from our members.
+ <a target="_blank" href ="_URL_">_URL_</a>
+
+Regards
+Team
